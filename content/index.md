@@ -1,11 +1,11 @@
 ---
 title: Willkommen zur Lore-Seite der DnD Kampagne
-"": "Author: Simon E."
 ---
+[[ContentPage]]
 
 Diese Kampagne ist WIP.
 
--SEK
+Author: Simon E. K.
 
 
 
