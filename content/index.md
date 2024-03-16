@@ -1,7 +1,8 @@
 ---
 title: Willkommen zur Lore-Seite der DnD Kampagne
 ---
-[[ContentPage]]
+[[explorer]]
+
 
 Diese Kampagne ist WIP.
 
