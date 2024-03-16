@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz 4 of DnD Icewind Dale Rime of the Frostmaiden Campaign!
+title: Willkommen zur Lore-Seite der DnD Kampagne
+"": "Author: Simon E."
 ---
 
 Diese Kampagne ist WIP.
