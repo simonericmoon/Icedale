@@ -13,12 +13,22 @@ Hier schreibst du deinen Text. Du kannst hier normalen Markdown-Text verwenden, 
 </tr> 
 </table>
 
+<div style="display: flex; align-items: center;">
+  <img src="../images/862421d9b2f00ab5705467ca4f66b3b6.jpg" alt="Descriptive text for the image" style="width: 50%; height: auto;"/>
+  <p style="margin-left: 20px;">Your text goes here. This text is placed next to the image.</p>
+</div>
 
 
 
-![[862421d9b2f00ab5705467ca4f66b3b6.jpg]]
 
-![Bildbeschreibung](../images/862421d9b2f00ab5705467ca4f66b3b6.jpg)
+
+
+
+
+
+
+![dwdwdwdwdd](../images/862421d9b2f00ab5705467ca4f66b3b6.jpg)
+
 
 
 
@@ -40,6 +50,8 @@ tags:
 ## Description
 
 Max Mustermann ist ein 40 Jahre alter Mensch. Er hat Frau und Kinder in Baldurs Gate. Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Max ist ein Ritter des Lords Thomas. Er ist nach Icedale gegangen um besondere Fische zu sammeln. 
+![[862421d9b2f00ab5705467ca4f66b3b6.jpg|inlR|130]]
+
 
 ## Rank
 Level: 1
