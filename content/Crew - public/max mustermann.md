@@ -18,6 +18,8 @@ Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backs
   <p style="margin-left: 20px;">Max Mustermann ist ein 40 Jahre alter Mensch.  Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er ist nach Icedale gegangen um besondere Fische zu sammeln. </p>
 </div>
 
+<html> <head> <title>Interactive Fantasy Map</title> <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" /> <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> </head> <body> <div id="map" style="width: 600px; height: 400px;"></div> <script> var map = L.map('map').setView([0, 0], 2); L.tileLayer('../images/862421d9b2f00ab5705467ca4f66b3b6.jpg', { maxZoom: 10, minZoom: 1, noWrap: true, bounds: [[-90, -180], [90, 180]], }).addTo(map); </script> </body> </html>
+
 
 ## Rank
 Level: 1 <br>
