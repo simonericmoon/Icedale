@@ -23,7 +23,6 @@ Hier schreibst du deinen Text. Du kannst hier normalen Markdown-Text verwenden, 
 
 
 
-<img src="quartz/content/images/862421d9b2f00ab5705467ca4f66b3b6.jpg" style="width:40%;floapg" /> 
 
 
 
