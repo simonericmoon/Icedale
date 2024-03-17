@@ -18,42 +18,7 @@ Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backs
   <p style="margin-left: 20px;">Max Mustermann ist ein 40 Jahre alter Mensch.  Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er ist nach Icedale gegangen um besondere Fische zu sammeln. </p>
 </div>
 
-
-<html>
-<head>
-    <title>Interactive Fantasy Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-</head>
-<body>
-    <div id="map" style="width: 600px; height: 400px;"></div>
-    <script>
-        var map = L.map('map', {
-            minZoom: 1,
-            maxZoom: 4,
-            center: [0, 0],
-            zoom: 1,
-            crs: L.CRS.Simple,
-            noWrap: true,
-            worldCopyJump: false,
-        });
-
-        // Assuming your image is 1024x1024 pixels at zoom level 1
-        // Adjust these values based on your actual image size and desired zoom levels
-        var bounds = [[0, 0], [2279, 900]];
-
-        // Add the image overlay to the map setting bounds
-        L.imageOverlay('../images/ysbfh96bj1s51.webp', bounds).addTo(map);
-
-        // Set the view to the center of the image
-        map.setView([512, 512], 1);
-
-        // Restrict the view to the image bounds
-        map.setMaxBounds(bounds);
-    </script>
-</body>
-</html>
-
+<html> <head> <title>Interactive Fantasy Map</title> <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" /> <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> </head> <body> <div id="map" style="width: 600px; height: 400px;"></div> <script> var map = L.map('map').setView([0, 0], 2); L.tileLayer('../images/ysbfh96bj1s51.webp', { maxZoom: 10, minZoom: 1, noWrap: false, worldCopyJump: false, bounds: [[-90, -180], [90, 180]], }).addTo(map); </script> </body> </html>
 
 '../images/ysbfh96bj1s51.webp
 ## Rank
