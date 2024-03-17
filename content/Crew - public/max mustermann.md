@@ -1,7 +1,7 @@
 
 ---
 title: Max Mustermann
-draft: true
+draft: false
 tags:
   - mensch
   - Krieger
