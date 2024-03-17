@@ -5,6 +5,6 @@ draft: false
 tags:
   - example-tag
 ---
- König X
+ Koenig X
 The rest of your content lives here. You can use **Markdown** here :)
 
