@@ -1,1 +1,1 @@
-![[cp01n0flgto51.webp]]
+![[047-map-1.9-easthaven-player.webp]]

@@ -1,2 +1,3 @@
-![[wpv895glgto51.webp]]
+![[quartz/content/images/014-map-1.1-bremen-player.webp]]
+
 
