@@ -9,7 +9,7 @@ Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backs
 Hier schreibst du deinen Text. Du kannst hier normalen Markdown-Text verwenden, einschließlich anderer Markdown-Elemente wie **fett** oder _kursiv_.
 </td>
 <td>
-![Bildbeschreibung](../images/862421d9b2f00ab5705467ca4f66b3b6.jpg)
+![Bildbeschreibung](/images/862421d9b2f00ab5705467ca4f66b3b6.jpg)
 </tr> 
 </table>
 
