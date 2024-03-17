@@ -12,7 +12,7 @@ Author: Simon E. K.
 ysbfh96bj1s51.webp
 
 <html>
-<div id="map" style="width: 100%; height: 400px;"></div> <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script> <link href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" rel="stylesheet"/>  <script>   var map = L.map('map', {     crs: L.CRS.Simple,     minZoom: -2,     maxZoom: 8,   });    var bounds = [[0, 0], [2279, 900]];   var image = L.imageOverlay('ysbfh96bj1s51.webp', bounds).addTo(map); map.on('load', function() {     map.invalidateSize();   });    map.fitBounds(bounds); </script>
+<div id="map" style="width: 100%; height: 300px;"></div> <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script> <link href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" rel="stylesheet"/>  <script>   var map = L.map('map', {     crs: L.CRS.Simple,     minZoom: -5,     maxZoom: 7,   });    var bounds = [[0, 0], [900, 2279]];   var image = L.imageOverlay('ysbfh96bj1s51.webp', bounds).addTo(map); map.on('load', function() {     map.invalidateSize();   });    map.fitBounds(bounds); </script>
 </html>
 
 
