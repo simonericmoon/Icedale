@@ -34,3 +34,67 @@ Er gehörte zur Leibgarde des Grafen von Baldurs Gate.
 
 - Großschert mit Rubin 
 
+
+<div class="zoomable-image">
+  ![Your Image Description](../images/ysbfh96bj1s51.webp)
+</div>
+
+
+<html>
+<div id="imageContainer" style="overflow:hidden; width:500px; height:300px;">
+    <img id="zoomableImage" src="../images/ysbfh96bj1s51.webp" style="width:100%; cursor:grab;">
+</div>
+<style>
+#imageContainer {
+    /* Adjust these values as needed */
+    width: 500px; 
+    height: 300px;
+    overflow: hidden;
+}
+
+#zoomableImage {
+    width: 100%;
+    cursor: grab;
+    transition: transform 0.25s ease;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    let img = document.getElementById('zoomableImage');
+    let container = document.getElementById('imageContainer');
+    let posX = 0, posY = 0, scale = 1;
+    let lastPosX = 0, lastPosY = 0, lastScale = 1;
+
+    img.onwheel = function(e) {
+        e.preventDefault();
+        scale = Math.max(1, Math.min(lastScale + (e.deltaY * -0.01), 4));
+        img.style.transform = `translate(${lastPosX}px, ${lastPosY}px) scale(${scale})`;
+    };
+
+    let isDragging = false;
+
+    img.onmousedown = function(e) {
+        e.preventDefault();
+        isDragging = true;
+        posX = e.clientX - lastPosX;
+        posY = e.clientY - lastPosY;
+        container.style.cursor = 'grabbing';
+    };
+
+    document.onmousemove = function(e) {
+        if (isDragging) {
+            lastPosX = e.clientX - posX;
+            lastPosY = e.clientY - posY;
+            img.style.transform = `translate(${lastPosX}px, ${lastPosY}px) scale(${scale})`;
+        }
+    };
+
+    document.onmouseup = function(e) {
+        isDragging = false;
+        container.style.cursor = 'grab';
+    };
+});
+</script>
+</html>
+
