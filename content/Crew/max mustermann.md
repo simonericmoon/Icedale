@@ -19,7 +19,7 @@ Ansehn TenTowns: 0
 ## Personalquest
 Max Mustermann ist beauftragt worden um Fische für den König zu sammeln. 
 ## Backstory
-Soldat
+Soldat <br>
 Er gehörte zur Leibgarde des Grafen von Baldurs Gate. 
 ## noteworthy items
 
