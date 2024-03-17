@@ -12,7 +12,8 @@ Author: Simon E. K.
 ysbfh96bj1s51.webp
 
 
-<html> <head> <title>Zoomable Image Map</title> <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" /> <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> <style> #map { width: 100%; height: 400px; } </style> </head> <body> <div id="map"></div> <script> var map = L.map('map', {minZoom: 1, maxZoom: 4, center: [0, 0], zoom: 1, crs: L.CRS.Simple}); var bounds = [[0,0], [1000,1000]]; L.imageOverlay('ysbfh96bj1s51.webp', bounds).addTo(map); map.fitBounds(bounds); </script> </body> </html>
+<html> <head> <title>Zoomable Image Map</title> <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" /> <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> <style> #map { width: 100%; height: 400px; } </style> </head> <body> <div id="map"></div> <script> var map = L.map('map', {minZoom: 1, maxZoom: 4, center: [0, 0], zoom: 1, crs: L.CRS.Simple}); var bounds = [[0,0], [2279,900]]; L.imageOverlay('ysbfh96bj1s51.webp', bounds).addTo(map); map.fitBounds(bounds); </script> </body> </html>
+
 
 
 
