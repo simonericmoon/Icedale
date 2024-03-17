@@ -1,3 +1,12 @@
+```
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+```
+
 ## Description
 
 ## Rank
@@ -6,7 +15,7 @@
 
 ## Backstory
 
-## notworthy items
+## noteworthy items
 
 
 
