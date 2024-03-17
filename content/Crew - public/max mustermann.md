@@ -1,14 +1,14 @@
 
-Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backstory``` wird nur dann hier veröffentlicht wenn, der Spieler dies möchte und die anderen Spieler davon wissen! 
-
 ---
 title: Max Mustermann
-draft: false
+draft: true
 tags:
   - mensch
   - Krieger
   - samplePlayer
 ---
+
+Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backstory``` wird nur dann hier veröffentlicht wenn, der Spieler dies möchte und die anderen Spieler davon wissen! 
 
 
 ## Description
