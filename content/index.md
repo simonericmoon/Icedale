@@ -12,7 +12,7 @@ Author: Simon E. K.
 ysbfh96bj1s51.webp
 
 <html>
-<div id="map" style="width: 90%; height: 250px;"></div>
+<div id="map" style="width: 100%; height: 500px;"></div>
 
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
@@ -26,9 +26,9 @@ var map = L.map('map', {
 
 crs: L.CRS.Simple,
 
-minZoom: -2,
+minZoom: -4,
 
-maxZoom: 2,
+maxZoom: 5,
 
 });
 
@@ -45,6 +45,7 @@ map.fitBounds(bounds);
 
 </script>
 </html>
+
 
 
 
