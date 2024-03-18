@@ -1,18 +1,6 @@
 
 
 
-<html>
-<script src="https://unpkg.com/panzoom/dist/panzoom.min.js"></script>
 
-<div style="display: flex; align-items: center;">
-  <div id="panzoom-element" style="width: 80%; overflow: hidden; cursor: grab;">
-    <img src="../images/019-map-1.2-bryn-shander-player.webp" alt="Descriptive text for the image" style="width: 100%; height: auto;"/>
-  </div>
-  <p style="margin-left: 20px;">
-    Max Mustermann ist ein 40 Jahre alter Mensch.  Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er ist nach Icedale gegangen um besondere Fische zu sammeln.
-  </p>
-</div>
-<script> const element = document.getElementById('panzoom-element'); panzoom(element, { bounds: true, boundsPadding: 0.1 }); </script>
-</html>
-
+<html> <head> <link href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" rel="stylesheet"/> </head> <body> <div id="map" style="width: 100%; height: 700px;"></div>  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script> <script> var map = L.map('map', { crs: L.CRS.Simple, minZoom: -2, maxZoom: 4,  }); var bounds = [[0, 0], [3000, 2208]]; var image = L.imageOverlay('../../../../../images/019-map-1.2-bryn-shander-player.webp', bounds).addTo(map); map.on('load', function() { map.invalidateSize(); }); map.fitBounds(bounds); </script> </body> </html>
 
