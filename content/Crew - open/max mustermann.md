@@ -38,3 +38,15 @@ Er verärgerte den König und wurde mit einer Fleißaufgabe beauftragt - Fische 
 - Großschert mit Rubin 
 
 
+<div style="display: flex; align-items: start;">
+  <img src="../images/862421d9b2f00ab5705467ca4f66b3b6.jpg" alt="Descriptive text for the image" style="width: 30%; height: auto;"/>
+  <div style="margin-left: 20px;">
+    <h2>Appearance</h2>
+    <p>Max Mustermann ist ein 40 Jahre alter Mensch. Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er hat braune kurze Haare und einen leichten unregelmäßigen Bart. Sein Haar fängt langsam an zu grauen. Er ist nach Icedale gegangen um besondere Fische zu sammeln. Er hat Angst vor [[Auril]]</p>
+    <h2>Beschreibung</h2>
+    <p>[Hier fügen Sie die detaillierte Beschreibung ein]</p>
+    <h2>Klasse und Ränge</h2>
+    <p>[Hier fügen Sie Informationen zu Klasse und Rängen ein]</p>
+  </div>
+</div>
+
