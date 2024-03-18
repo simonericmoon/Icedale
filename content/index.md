@@ -30,7 +30,7 @@ minZoom: -4,
 
 maxZoom: 5,
 
-zoom: 1,
+zoom: 2,
 
 });
 
