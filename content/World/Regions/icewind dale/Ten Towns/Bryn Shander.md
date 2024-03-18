@@ -1,4 +1,4 @@
-![[dh4b4yelgto51.webp]]
+
 
 
 reload the page to view the map!

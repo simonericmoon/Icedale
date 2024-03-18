@@ -18,9 +18,11 @@ Abgeschnitten von der Außenwelt, müssen sich die Menschen der (Ten Towns) Zehn
 
 **[[Bryn Shander]]**, die größte der Zehn Städte, ist eine ummauerte Stadt, die auf einem kalten, einsamen, vom Wind gepeitschten Hügel thront. Helle Laternen, die über schmalen Straßen aufgehängt sind, drehen sich im Wind und fügen der sonst tristen Umgebung der Stadt Farbflecken hinzu. Sprecherin Duvessa Shane führt die Stadt tausend Seelen. Einmal ein Handelszentrum mit dem Norden, hat der Handel seit dem Einbruch der Nacht gelitten, ebenso wie der Humor, die Kameradschaft und der gute Wille der Menschen. Bemerkenswerte Orte sind die Schmiede der Schwarzeisenklingen, das Haus des Morgenlords und die Nordblick-Gasthaus und Taverne.
 
+Ihr beginnt an dem südwestlichen Stadttor von Bryn Shander. In der Nähe des Friedhofs.
+
 ## Dein Charakter in der Welt
 
-Die Charaktere beginnen auf der 1. Ebene. Du kannst Charakteroptionen aus dem Spielerhandbuch, Xanathars Ratgeber für Alles wählen - in DnD Beyond (App) erstellst du Charakter und wenn du Teil der Kampagne bist, erlaube ich Dateifreigabe, damit die Optionen für dich verfügbar sind. Zusätzlich zu den Kernrassen des Spielerhandbuchs kannst du die Rasse der Goliath wählen. Dein Charakter hat sich mit deinen Gefährten zusammengetan, um den Menschen der Zehn Städte zu helfen, die eisigen Gefahren in der endlosen Nacht zu überleben. Baue vielseitige Charaktere, die mit den Bewohnern von Icewind Dale interagieren, die gefrorene Tundra überleben und die Bestien bekämpfen können, die in der Dunkelheit jagen.
+Die Charaktere beginnen auf Level 1. Du kannst Charakteroptionen aus dem Spielerhandbuch, Xanathars Ratgeber für Alles wählen - in DnD Beyond (App) erstellst du Charakter und wenn du Teil der Kampagne bist, erlaube ich Dateifreigabe, damit die Optionen für dich verfügbar sind. Zusätzlich zu den Kernrassen des Spielerhandbuchs kannst du die Rasse der Goliath wählen. Dein Charakter hat sich mit deinen Gefährten zusammengetan, um den Menschen der Zehn Städte zu helfen, die eisigen Gefahren in der endlosen Nacht zu überleben. Baue vielseitige Charaktere, die mit den Bewohnern von Icewind Dale interagieren, die gefrorene Tundra überleben und die Bestien bekämpfen können, die in der Dunkelheit jagen.
 
 ## Euer Gruppenpatron
 
