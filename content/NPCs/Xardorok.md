@@ -1,0 +1,2 @@
+Duegar(Dunkelzwerg) 
+Zauberer
