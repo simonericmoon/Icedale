@@ -17,10 +17,12 @@ Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest und backs
   <img src="../images/862421d9b2f00ab5705467ca4f66b3b6.jpg" alt="Descriptive text for the image" style="width: 30%; height: auto;"/>
   <p style="margin-left: 20px;">Max Mustermann ist ein 40 Jahre alter Mensch.  Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er ist nach Icedale gegangen um besondere Fische zu sammeln. </p>
 </div>
+
 ## Description optional
-trübselig
-ruhig
-mutig 
+
+- trübselig
+- ruhig
+- mutig 
 
 ## Rank
 Level: 1 <br>
