@@ -10,6 +10,11 @@ tags:
 
 Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest, noteworthy-items und backstory``` wird nur dann hier veröffentlicht wenn, der Spieler dies möchte und die anderen Spieler davon wissen! 
 
+| Beschreibung | Klasse und Ränke |
+| ------------ | ---------------- |
+| mutig        | Krieger          |
+| ruhig        | Level 1          |
+| trübselig    | Ansehen 0        |
 
 ## Appearence
 
@@ -18,15 +23,7 @@ Dies ist ein Beispiel für ein Spieler-Charakter. Die ```Personalquest, notewort
   <p style="margin-left: 20px;">Max Mustermann ist ein 40 Jahre alter Mensch.  Er ist 1,80 groß, trägt eine schwere eiserne Rüstung. Er hat braune kurze Haare und einen leichten unregelmäßigen Bart. Sein Haar fängt langsam an zu grauen. Er ist nach Icedale gegangen um besondere Fische zu sammeln. </p>
 </div>
 
-## Description optional
 
-- trübselig
-- ruhig
-- mutig 
-
-## Rank
-Level: 1 <br>
-Ansehn TenTowns: 0
 ## Personalquest
 Max Mustermann ist beauftragt worden um Fische für den König zu sammeln. 
 Max ist ein Ritter des Lords Thomas. Er geht nach [[Bremen]].
@@ -41,9 +38,3 @@ Er verärgerte den König und wurde mit einer Fleißaufgabe beauftragt - Fische 
 - Großschert mit Rubin 
 
 
-
-| # Beschreibung | # Klasse und Ränke |
-| -------------- | ------------------ |
-| mutig          | Krieger            |
-| ruhig          | Level 1            |
-| trübselig      | Ansehen 0          |
