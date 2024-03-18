@@ -12,7 +12,7 @@ Author: Simon E. K.
 ysbfh96bj1s51.webp
 
 <html>
-<div id="map" style="width: 100%; height: 50%;"></div>
+<div id="map" style="width: 100%; height: 350px;"></div>
 
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
