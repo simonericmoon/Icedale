@@ -59,9 +59,7 @@ Er verärgerte den König und wurde mit einer Fleißaufgabe beauftragt - Fische 
     <div style="display: flex; justify-content: space-between;">
       <div style="flex-grow: 1; margin-right: 20px;">
         <h2>Beschreibung</h2>
-        <p>ruhig</p>
-        <p>mutig</p>
-        <p>trübselig</p>
+        <p>ruhig<br>trübselig<br><mutig></p>
       </div>
       <div style="flex-grow: 1;">
         <h2>Klasse und Ränge</h2>
