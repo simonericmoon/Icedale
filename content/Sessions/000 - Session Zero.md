@@ -1,8 +1,8 @@
 
-## Pre-Session 
+## Voraussetzungen 
 
 - [[Handout - Rime of the Frostmaiden]] lesen 
-- erste Ideen für Charackter? Aufschreiben und mitbringen (:
+- erste Ideen für Charakter? Aufschreiben und mitbringen (:
 - DnD Beyond herunterladen (Appstore, APK, Playstore)
 
 # Checkliste
@@ -13,8 +13,14 @@
 - Charaktererstellung 
 - Organisatorisch(Ort, Zeit, Intervall, Dauer, Essen, Getränke)
 
+# Nach der Sitzung:
+
+- Charaktere vervollständigen
+- ähnlich wie [[max mustermann]] Informationen ausdenken, so weit wie es geht; wenn es nicht vollständig ist, ist das nicht  schlimm! notworthy items sind quest items, das könnt ihr sofern es in eure Backstory oder Personalquest wichtig ist auch weglassen. Bei Fragen gerne mich fragen (:
+
+
 # Session 0.5 Weg zur Northlook Gasthaus
 
 Voraussetzung: Checkliste und Charaktererstellung
 
-**A**uf dem Weg zum Northlook Gasthaus...
+**A**uf dem Weg vom Stadttor zum Northlook Gasthaus...
